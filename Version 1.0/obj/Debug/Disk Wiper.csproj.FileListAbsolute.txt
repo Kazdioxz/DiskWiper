@@ -1,0 +1,65 @@
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\Disk Wiper.exe.config
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\Disk Wiper.exe
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\Disk Wiper.pdb
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\MaterialDesignColors.dll
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\MaterialDesignColors.pdb
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\#user#\source\Code\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.csprojAssemblyReference.cache
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\MainWindow.g.cs
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\App.g.cs
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.cache
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.lref
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\App.baml
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\MainWindow.baml
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.g.resources
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk_Wiper.Properties.Resources.resources
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.csproj.GenerateResource.cache
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.csproj.CoreCompileInputs.cache
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.csproj.CopyComplete
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.exe
+C:\Users\#user#\source\Code\Disk Wiper\obj\Debug\Disk Wiper.pdb
+D:\Bureau\Disk Wiper\bin\Debug\Disk Wiper.exe.config
+D:\Bureau\Disk Wiper\bin\Debug\Disk Wiper.exe
+D:\Bureau\Disk Wiper\bin\Debug\Disk Wiper.pdb
+D:\Bureau\Disk Wiper\bin\Debug\MaterialDesignColors.dll
+D:\Bureau\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Bureau\Disk Wiper\bin\Debug\MaterialDesignColors.pdb
+D:\Bureau\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Bureau\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.csprojAssemblyReference.cache
+D:\Bureau\Disk Wiper\obj\Debug\MainWindow.g.cs
+D:\Bureau\Disk Wiper\obj\Debug\App.g.cs
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.cache
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.lref
+D:\Bureau\Disk Wiper\obj\Debug\App.baml
+D:\Bureau\Disk Wiper\obj\Debug\MainWindow.baml
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.g.resources
+D:\Bureau\Disk Wiper\obj\Debug\Disk_Wiper.Properties.Resources.resources
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.csproj.GenerateResource.cache
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.csproj.CoreCompileInputs.cache
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.csproj.CopyComplete
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.exe
+D:\Bureau\Disk Wiper\obj\Debug\Disk Wiper.pdb
+E:\C#\Disk Wiper\bin\Debug\Disk Wiper.exe.config
+E:\C#\Disk Wiper\bin\Debug\Disk Wiper.exe
+E:\C#\Disk Wiper\bin\Debug\Disk Wiper.pdb
+E:\C#\Disk Wiper\bin\Debug\MaterialDesignColors.dll
+E:\C#\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\C#\Disk Wiper\bin\Debug\MaterialDesignColors.pdb
+E:\C#\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\C#\Disk Wiper\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\C#\Disk Wiper\obj\Debug\MainWindow.g.cs
+E:\C#\Disk Wiper\obj\Debug\App.g.cs
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.cache
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper_MarkupCompile.lref
+E:\C#\Disk Wiper\obj\Debug\App.baml
+E:\C#\Disk Wiper\obj\Debug\MainWindow.baml
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.g.resources
+E:\C#\Disk Wiper\obj\Debug\Disk_Wiper.Properties.Resources.resources
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.csproj.GenerateResource.cache
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.csproj.CoreCompileInputs.cache
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.csproj.CopyComplete
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.exe
+E:\C#\Disk Wiper\obj\Debug\Disk Wiper.pdb
